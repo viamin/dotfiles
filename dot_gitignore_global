@@ -1,0 +1,5 @@
+*~
+.DS_Store
+.overmind.env
+Procfile.overmind
+Procfile.debug
