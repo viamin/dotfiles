@@ -1,0 +1,4 @@
+---
+BUNDLE_BUILD__PG: "-- -with-cflags=\"-Wno-error=implicit-function-declaration\""
+BUNDLE_FORCE_RUBY_PLATFORM: "true"
+BUNDLE_IGNORE_FUNDING_REQUESTS: "true"
